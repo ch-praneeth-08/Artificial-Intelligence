@@ -1,0 +1,51 @@
+TransactionID,OrderDate,CustomerID,CustomerName,ProductID,ProductName,Category,Quantity,Price,Total,PaymentMethod,Region
+1,2023-01-05,CUST001,Alice Johnson,P001,Wireless Mouse,Electronics,2,25.99,51.98,Credit Card,North
+2,2023-01-07,CUST002,Bob Smith,P002,Bluetooth Speaker,Electronics,1,45.50,45.50,Paypal,South
+3,2023-01-10,CUST003,Carol White,P003,Yoga Mat,Sports,3,15.00,45.00,Credit Card,East
+4,2023-01-12,CUST004,David Brown,P004,Desk Lamp,Home,1,30.00,30.00,Cash,West
+5,2023-01-15,CUST005,Eve Davis,P005,Running Shoes,Sports,1,60.00,60.00,Credit Card,North
+6,2023-01-17,CUST006,Frank Miller,P006,Coffee Maker,Home,1,80.00,80.00,Credit Card,South
+7,2023-01-20,CUST007,Grace Wilson,P007,T-shirt,Clothing,2,20.00,40.00,Paypal,East
+8,2023-01-22,CUST008,Henry Moore,P008,Jeans,Clothing,1,40.00,40.00,Credit Card,West
+9,2023-01-25,CUST009,Ivy Taylor,P009,Novel Book,Books,2,12.50,25.00,Cash,North
+10,2023-01-27,CUST010,Jack Anderson,P010,Cookbook,Books,1,18.00,18.00,Paypal,South
+11,2023-02-01,CUST011,Kathy Martinez,P001,Wireless Mouse,Electronics,1,25.99,25.99,Credit Card,East
+12,2023-02-03,CUST012,Leo Rodriguez,P002,Bluetooth Speaker,Electronics,2,45.50,91.00,Cash,West
+13,2023-02-05,CUST013,Mia Hernandez,P003,Yoga Mat,Sports,1,15.00,15.00,Paypal,North
+14,2023-02-07,CUST014,Noah King,P004,Desk Lamp,Home,2,30.00,60.00,Credit Card,South
+15,2023-02-10,CUST015,Olivia Scott,P005,Running Shoes,Sports,1,60.00,60.00,Cash,East
+16,2023-02-12,CUST016,Paul Young,P006,Coffee Maker,Home,1,80.00,80.00,Paypal,West
+17,2023-02-15,CUST017,Quincy Allen,P007,T-shirt,Clothing,3,20.00,60.00,Credit Card,North
+18,2023-02-17,CUST018,Rachel Wright,P008,Jeans,Clothing,2,40.00,80.00,Cash,South
+19,2023-02-20,CUST019,Steve Lopez,P009,Novel Book,Books,1,12.50,12.50,Credit Card,East
+20,2023-02-22,CUST020,Tina Hill,P010,Cookbook,Books,3,18.00,54.00,Paypal,West
+21,2023-03-01,CUST021,Uma Baker,P001,Wireless Mouse,Electronics,2,25.99,51.98,Credit Card,North
+22,2023-03-03,CUST022,Victor Gonzalez,P002,Bluetooth Speaker,Electronics,1,45.50,45.50,Paypal,South
+23,2023-03-05,CUST023,Wendy Nelson,P003,Yoga Mat,Sports,2,15.00,30.00,Credit Card,East
+24,2023-03-07,CUST024,Xavier Carter,P004,Desk Lamp,Home,1,30.00,30.00,Cash,West
+25,2023-03-10,CUST025,Yvonne Mitchell,P005,Running Shoes,Sports,2,60.00,120.00,Credit Card,North
+26,2023-03-12,CUST026,Zack Perez,P006,Coffee Maker,Home,1,80.00,80.00,Paypal,South
+27,2023-03-15,CUST027,Aaron Roberts,P007,T-shirt,Clothing,2,20.00,40.00,Credit Card,East
+28,2023-03-17,CUST028,Betty Turner,P008,Jeans,Clothing,1,40.00,40.00,Cash,West
+29,2023-03-20,CUST029,Carl Adams,P009,Novel Book,Books,4,12.50,50.00,Paypal,North
+30,2023-03-22,CUST030,Diana Brooks,P010,Cookbook,Books,1,18.00,18.00,Credit Card,South
+31,2023-04-01,CUST031,Ethan Cox,P001,Wireless Mouse,Electronics,3,25.99,77.97,Credit Card,East
+32,2023-04-03,CUST032,Fiona Reed,P002,Bluetooth Speaker,Electronics,2,45.50,91.00,Cash,West
+33,2023-04-05,CUST033,George Price,P003,Yoga Mat,Sports,1,15.00,15.00,Paypal,North
+34,2023-04-07,CUST034,Hannah Long,P004,Desk Lamp,Home,3,30.00,90.00,Credit Card,South
+35,2023-04-10,CUST035,Ian Patterson,P005,Running Shoes,Sports,1,60.00,60.00,Cash,East
+36,2023-04-12,CUST036,Julia Hughes,P006,Coffee Maker,Home,2,80.00,160.00,Paypal,West
+37,2023-04-15,CUST037,Kevin Edwards,P007,T-shirt,Clothing,1,20.00,20.00,Credit Card,North
+38,2023-04-17,CUST038,Laura Collins,P008,Jeans,Clothing,2,40.00,80.00,Cash,South
+39,2023-04-20,CUST039,Mike Stewart,P009,Novel Book,Books,1,12.50,12.50,Paypal,East
+40,2023-04-22,CUST040,Nina Foster,P010,Cookbook,Books,2,18.00,36.00,Credit Card,West
+41,2023-05-01,CUST041,Oliver Griffin,P001,Wireless Mouse,Electronics,1,25.99,25.99,Cash,North
+42,2023-05-03,CUST042,Paula Howard,P002,Bluetooth Speaker,Electronics,3,45.50,136.50,Credit Card,South
+43,2023-05-05,CUST043,Quentin Simmons,P003,Yoga Mat,Sports,2,15.00,30.00,Paypal,East
+44,2023-05-07,CUST044,Rebecca Jenkins,P004,Desk Lamp,Home,1,30.00,30.00,Credit Card,West
+45,2023-05-10,CUST045,Samuel Perry,P005,Running Shoes,Sports,2,60.00,120.00,Cash,North
+46,2023-05-12,CUST046,Tara Watson,P006,Coffee Maker,Home,1,80.00,80.00,Paypal,South
+47,2023-05-15,CUST047,Umar Kelly,P007,T-shirt,Clothing,3,20.00,60.00,Credit Card,East
+48,2023-05-17,CUST048,Victoria Diaz,P008,Jeans,Clothing,1,40.00,40.00,Cash,West
+49,2023-05-20,CUST049,Walter Myers,P009,Novel Book,Books,2,12.50,25.00,Paypal,North
+50,2023-05-22,CUST050,Xena Rose,P010,Cookbook,Books,1,18.00,18.00,Credit Card,South
